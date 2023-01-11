@@ -48,13 +48,13 @@ Kirjeldada tudengi õpiväljundeid edukal läbimisel
 
 Viidata kõikidel õppeaines käsitletavatele teemadele
 
-- [teemale viitamise näide](/teemad/teema01.md)
+- [teemale viitamise näide](Teemad/teema01.md)
 
 ## Kõik kursuse loengud
 
 Viidata kõikidele loengutele, mis õppeaines aset leiab kronoloogilises järjekorras
 
-- [loengule viitamise näide](/loengud/loeng01.md)
+- [loengule viitamise näide](Loengud/loeng01.md)
 
 ## Kõik kasutatavad tehnoloogiad ja vastavad tööriistad
 
