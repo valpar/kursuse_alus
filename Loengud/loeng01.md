@@ -16,13 +16,13 @@ Tuua välja loengu õpiväljundid
 
 linkida/refereerida loengus kasutatavad teemad
 
-- [teemale viitamise näide](../Teemad/teema01.md)
+- [teemale viitamise näide](/teemad/teema01.md)
 
 ## Valikuline: Lisad
 
 välja tuua lisa materjalid, mis hõlbustavad õpilase õppetööd.
 
-- [Lisa materjalile viitamise näide](../Lisad/lisa01.md)
+- [Lisa materjalile viitamise näide](/lisad/lisa01.md)
 - [Välise materjali viitamise näide](https://sisesta-link-siia.ee)
 
 ## Valikuline: Kasutatavad tehnoloogiad
@@ -35,10 +35,10 @@ välja tuua loengus kasutatavad tehnoloogiad
 
 siia lisada harjutused, mida käsitletakse loengu jooksul
 
-- [Loengu harjutusele viitamise näide](../Loengu_harjutused/loengu_harjutus01.md)
+- [Loengu harjutusele viitamise näide](loengu-harjutused/loengu-harjutus01.md)
 
 ## Kodutöö
 
 siin linkida/refereerida loengu alusel kodutöö harjutusele
 
-- [Kodustetööde viitamise näide](../Kodused_harjutused/kodune_harjutus01.md)
+- [Kodustetööde viitamise näide](kodused-harjutused/kodune-harjutus01.md)

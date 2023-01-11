@@ -8,7 +8,6 @@
 ## Õppeaine hindamismudel
 
 - Õppeaine kontrollvorm, kas eksam või arvestus
-
 - Lisada tabelina õppeaine hindamismudel
 
 | Eksamid hinded            | Hinnete kriteeriumid |
@@ -31,18 +30,16 @@ või kui on arvestusliku õppeainega
 
 Kirjeldada tudengi eesmärke antud õppeaines
 
-Õppeaine eesmärgiks on:
-
+- Õppeaine eesmärgiks on:
 - eesmärk 1
 - eesmärk 2
 - jne
 
 ## Õpiväljundid
 
-- Kirjeldada tudengi õpiväljundeid edukal läbimisel
+Kirjeldada tudengi õpiväljundeid edukal läbimisel
 
-Õppeaine edukal läbimisel üliõpilane:
-
+- Õppeaine edukal läbimisel üliõpilane:
 - tulemus 1
 - tulemus 2
 - jne
@@ -69,15 +66,11 @@ Viidata õppeaines kasutatavatele tehnoloogiatele ning tööriistadele
 
 - Kirjeldada, kuidas eksam või arvestus hakkab välja nägema
 - Välja tuua eeldused eksamile või arvestusele pääsemisele
-
-Eksam koosneb:
-
+  Eksam koosneb:
 - kokkuvõttest
 - loengutes osalemisest
 - jne
-
-Arvestus koosneb:
-
+  Arvestus koosneb:
 - kokkuvõttest
 - loengutest osalemisest
 - jne
