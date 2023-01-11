@@ -18,4 +18,4 @@ console.log('Hello world!');
 
 - Pildile viitamise näide
 
-![crud](../Pildid/crud.png)
+![crud](/Pildid/crud.png)
